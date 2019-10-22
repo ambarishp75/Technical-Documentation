@@ -1,2 +1,2 @@
 # Technical-Documentation
-This repository contain sample technical documentation files
+This repository contains sample technical documentation files
