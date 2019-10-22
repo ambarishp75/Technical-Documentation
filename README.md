@@ -1,14 +1,4 @@
-<h1> Withdrawing Money From ATM </h1>
-<html>
-<div>
-body lang=EN-US style='tab-interval:.5in'>
-
-<div class=WordSection1>
-
-<h1 align=center style='text-align:center'>Withdrawing Money From an ATM</h1>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
+<h1> Withdrawing Money From an ATM </h1>
 <p class=MsoNormal>To withdraw money from an ATM, follow the steps below:</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists]><span
