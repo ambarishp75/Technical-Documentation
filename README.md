@@ -1,8 +1,8 @@
 <h1>Withdrawing Money from An ATM</h1>
-<p>To withdraw money from an ATM, follow the steps below:</p1>
+<p>To withdraw money from an ATM, follow the steps below:</p>
 <p></p>
 
-<div>
+
 <ol>
 <p>1.Insert your debit card or credit card in the ATM</p>
 <p>2.Select the language of your choice from the language options when prompted</p>
@@ -15,6 +15,5 @@
 <p>9.Select Exit to end your transation</p>
   <p></p>
   <p> This completes your transaction to withdraw money from an ATM</p>
-</div>
 
 
