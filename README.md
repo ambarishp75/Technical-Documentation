@@ -11,7 +11,7 @@
 <p>5. Select the type of account you want to make your transaction on</p>
 <p>6. Enter the amount to be withdrawn</p>
 <p>7. Wait for some time and then collect the dispensed cash</p>
-<p>8. Collect the printed receipt, required</p>
+<p>8. Collect the printed receipt, if required</p>
 <p>9. Select Exit to end your transation</p>
   <p></p>
   <p> This completes your transaction to withdraw money from an ATM</p>
