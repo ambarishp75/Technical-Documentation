@@ -1,6 +1,6 @@
 <h1>Withdrawing Money from An ATM</h1>
-<p1>To withdraw money from an ATM, follow the steps below:</p1>
-<span></span>
+<p>To withdraw money from an ATM, follow the steps below:</p1>
+<p></p>
 
 <div>
 <ol>
